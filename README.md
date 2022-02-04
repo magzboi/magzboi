@@ -2,7 +2,7 @@
 ![](https://i.ebayimg.com/00/s/Mjk2WDE2MDA=/z/ykcAAOSw8hxbLD7m/$_57.JPG?set_id=8800005007)
 
 - 🔭 I’m currently working with a  **raspberry** pi 4
-- 🌱 I’m currently learning python on codewars
+- 🌱 I’m currently learning ___. Not sure yet :)
 
 Skills: Super Smash on the N64
 
